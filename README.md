@@ -9,9 +9,6 @@ This repository contains my solutions to LeetCode problems while learning:
 - Problem Solving
 - Java
 
-## Progress
-- [x] Two Sum
-
 ## Goal
 Solve consistently and improve problem-solving skills one problem at a time.
 
